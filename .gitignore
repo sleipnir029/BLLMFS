@@ -36,6 +36,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# PDF files
+*.pdf
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
